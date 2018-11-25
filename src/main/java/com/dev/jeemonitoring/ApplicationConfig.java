@@ -8,10 +8,7 @@ package com.dev.jeemonitoring;
 import java.util.Set;
 import javax.ws.rs.core.Application;
 
-/**
- *
- * @author root
- */
+
 @javax.ws.rs.ApplicationPath("resources")
 public class ApplicationConfig extends Application {
 

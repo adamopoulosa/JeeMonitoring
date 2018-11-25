@@ -5,10 +5,6 @@
  */
 package com.dev.jeemonitoring;
 
-/**
- *
- * @author root
- */
 public class Model {
    
     String propertyOne ;

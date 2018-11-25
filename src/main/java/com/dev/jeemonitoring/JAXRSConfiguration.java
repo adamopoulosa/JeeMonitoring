@@ -7,10 +7,7 @@ package com.dev.jeemonitoring;
 
 import javax.ws.rs.core.Application;
 
-/**
- *
- * @author root
- */
+
 public class JAXRSConfiguration extends Application {
     // nothing to configure here
 }
