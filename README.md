@@ -1,2 +1,2 @@
-
-Example of perceptor (Performance Interceptor) utility.
+# perceptor
+Example of perceptor (Performance Interceptor) JEE performance monitor utility.
